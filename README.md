@@ -1,2 +1,1 @@
-# prepcoursehenry
-prueba repositorio modulo dos
+proyecto de prueba de repositorio y de como clonarlo en la compu
